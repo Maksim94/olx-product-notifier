@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Maksim94/olx-product-notifier#readme",
   "dependencies": {
+    "beeper": "^2.0.0",
     "cheerio": "^1.0.0-rc.3",
+    "open": "^6.4.0",
     "request": "^2.88.0"
   }
 }

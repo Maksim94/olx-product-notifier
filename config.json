@@ -4,6 +4,7 @@
     ],
     "timer": 10,
     "price": 6000,
-    "beepTimes": 3,
-    "openBrowser": false
+    "beepTimes": 1,
+    "openBrowser": true,
+    "openBroswerTabsLimit": 100500
 }

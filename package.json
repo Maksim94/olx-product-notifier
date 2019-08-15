@@ -1,0 +1,23 @@
+{
+  "name": "olx-product-notifier",
+  "version": "1.0.0",
+  "description": "olx product notifier by price",
+  "main": "grabber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksim94/olx-product-notifier.git"
+  },
+  "author": "maxim.kondzera@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maksim94/olx-product-notifier/issues"
+  },
+  "homepage": "https://github.com/Maksim94/olx-product-notifier#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0"
+  }
+}
